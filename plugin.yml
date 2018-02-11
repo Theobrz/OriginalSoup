@@ -1,6 +1,6 @@
 name: OriginalSoup
 main: Theobrz\Main
 version: 3.0
-api: 2.0.0
+api: [2.0.0, 3.0.0-ALPHA10, 3.0.0-ALHPA11]
 load: POSTWORLD
 author: Theobrz
